@@ -1,0 +1,164 @@
+{
+    "locations": [{
+        "name": "Kovacek LLC",
+        "address": "6873 Auer Estates",
+        "phone": "830-285-7894 x022"
+    }, {
+        "name": "Crooks, Hoeger and Witting",
+        "address": "28024 Jerrell Throughway",
+        "phone": "(672) 507-6968"
+    }, {
+        "name": "Schoen - Casper",
+        "address": "96923 Nedra Mountains",
+        "phone": "1-796-302-7255 x173"
+    }, {
+        "name": "Ondricka LLC",
+        "address": "6525 Wisoky Shoal",
+        "phone": "558-607-8020 x495"
+    }, {
+        "name": "Schulist, Green and Skiles",
+        "address": "606 Dominique Branch",
+        "phone": "658.704.4456"
+    }, {
+        "name": "Schneider - Legros",
+        "address": "89245 Torphy Course",
+        "phone": "1-347-377-4868"
+    }, {
+        "name": "Hamill - Dickinson",
+        "address": "345 Oral Cliff",
+        "phone": "548.606.3310"
+    }, {
+        "name": "McClure - Legros",
+        "address": "522 Rau Knoll",
+        "phone": "1-918-220-2592 x546"
+    }, {
+        "name": "Bergnaum, Boehm and Ledner",
+        "address": "044 Zachery Trace",
+        "phone": "(252) 695-8507"
+    }, {
+        "name": "Hilpert - Zboncak",
+        "address": "249 Orpha Mount",
+        "phone": "330.656.5752"
+    }],
+    "inventory": [{
+        "name": "Generic Plastic Keyboard",
+        "description": "The Football Is Good For Training And Recreational Purposes",
+        "quantity": 91,
+        "price": 33,
+        "locationId": "609376c00a4cf4dc4c8e8993"
+    }, {
+        "name": "Fantastic Cotton Pants",
+        "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+        "quantity": 94,
+        "price": 83,
+        "locationId": "609376c00a4cf4dc4c8e8203"
+    }, {
+        "name": "Practical Frozen Bike",
+        "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+        "quantity": 40,
+        "price": 66,
+        "locationId": "609376c11a4cf4dc4c8e8903"
+    }, {
+        "name": "Small Cotton Salad",
+        "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+        "quantity": 4,
+        "price": 5,
+        "locationId": "609376c10a4cf4dc4c8e8903"
+    }, {
+        "name": "Handmade Plastic Mouse",
+        "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+        "quantity": 78,
+        "price": 61,
+        "locationId": "609376c00a4cf4dc4c8e8103"
+    }, {
+        "name": "Licensed Fresh Soap",
+        "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+        "quantity": 25,
+        "price": 91,
+        "locationId": "609376c00a4cf4dc4c8e8603"
+    }, {
+        "name": "Intelligent Cotton Gloves",
+        "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+        "quantity": 74,
+        "price": 65,
+        "locationId": "609376c00a4cf4dc4c8e3903"
+    }, {
+        "name": "Awesome Frozen Shoes",
+        "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+        "quantity": 70,
+        "price": 34,
+        "locationId": "609376c00a1cf4dc4c8e8903"
+    }, {
+        "name": "Generic Fresh Hat",
+        "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+        "quantity": 19,
+        "price": 40,
+        "locationId": "602376c00a4cf4dc4c8e8903"
+    }, {
+        "name": "Sleek Metal Sausages",
+        "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+        "quantity": 74,
+        "price": 95,
+        "locationId": "609376c00a4cf4dc4c8e2903"
+    }],
+    "employees": [{
+        "firstName": "Lukas",
+        "lastName": "Schultz",
+        "hourlyPayRate": 40,
+        "locationId": "609376c00a4cf4dc4c8e8903"
+    }, {
+        "firstName": "Jan",
+        "lastName": "Kiehn",
+        "hourlyPayRate": 28,
+        "locationId": "609376c00a4cf4dc4c8e3903"
+
+    }, {
+        "firstName": "Angus",
+        "lastName": "Kuhn",
+        "hourlyPayRate": 16,
+        "locationId": "609376c00a4cf4dc4c9e8903"
+
+    }, {
+        "firstName": "Rhianna",
+        "lastName": "Huel",
+        "hourlyPayRate": 45,
+        "locationId": "609376c00a4cf4dc4c8e8901"
+
+    }, {
+        "firstName": "Oral",
+        "lastName": "Osinski",
+        "hourlyPayRate": 38,
+        "locationId": "609376c00a4cf4dc4c8e8103"
+
+    }, {
+        "firstName": "Maryam",
+        "lastName": "Kub",
+        "hourlyPayRate": 12,
+        "locationId": "609376c00a4cf4dc4c8e8923"
+
+    }, {
+        "firstName": "Horace",
+        "lastName": "Stracke",
+        "hourlyPayRate": 10,
+        "locationId": "609276c00a4cf4dc4c8e8903"
+
+    }, {
+        "firstName": "Marcelino",
+        "lastName": "Ward",
+        "hourlyPayRate": 11,
+        "locationId": "609336c00a4cf4dc4c8e8903"
+
+    }, {
+        "firstName": "Lea",
+        "lastName": "Koss",
+        "hourlyPayRate": 40,
+        "locationId": "309376c00a4cf4dc4c8e8903"
+
+    }, {
+        "firstName": "Rodrick",
+        "lastName": "Senger",
+        "hourlyPayRate": 2,
+        "locationId": "609376c00a4cf2dc4c8e8903"
+
+    }]
+}
